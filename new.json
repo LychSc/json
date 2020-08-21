@@ -1,5 +1,5 @@
 {
-	"machines": [{
+	"machine": [{
 		"name": schubert,
 		"ref": 0123456,
 		"keyword": bras,
